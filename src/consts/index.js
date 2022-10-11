@@ -1,0 +1,1 @@
+export const publishers = ['Marvel Comics', 'DC Comics'];
